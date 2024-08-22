@@ -1,5 +1,5 @@
 # US Mass Shootings Analysis
-
+- [**Tableau Link**](https://public.tableau.com/app/profile/hamzasalahds/viz/ShootingsBreakdownintheUS2014-2022/Summary)
 ## Introduction
 The problem we have been facing in America has been the sudden influx of violence and in particular mass shootings. A mass shooting is defined as the fatal or non-fatal shooting of four or more people by a firearm. Based on our research, the common motivations of the shooter that we found were gang violence, armed robbery, and domestic violence. Throughout this study, our goal is to further investigate shooting in the United States as it relates to the pandemic of COVID-19.
 
