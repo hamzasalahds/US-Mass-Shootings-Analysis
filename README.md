@@ -36,6 +36,7 @@ The exploratory data analysis for this dashboard page focused on viewing the que
 To prove our hypotheses that COVID-19 caused an increase in mass shootings, we filtered the datasets by state and city. Then, we included the total incidents, fatalities, and injuries.
 
 ![image](https://github.com/user-attachments/assets/eba365f6-5f85-4c25-bf4e-97a2bc9c3a60)
+
 We identified that there has been a clear increase in mass shootings during COVID-19.
 
 ![image](https://github.com/user-attachments/assets/ec55ecab-b8b8-411c-aedd-56a85a709d87)
